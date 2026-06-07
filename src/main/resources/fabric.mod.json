@@ -1,0 +1,34 @@
+{
+    "schemaVersion": 1,
+    "id": "template-mod",
+    "version": "${version}",
+    "name": "Template Mod",
+    "description": "A Minecraft Fabric mod built from the fabric-mod-template.",
+    "authors": [
+        "YourName"
+    ],
+    "contact": {
+        "homepage": "https://github.com/example/template-mod",
+        "sources": "https://github.com/example/template-mod"
+    },
+    "license": "MIT",
+    "icon": "assets/template-mod/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.example.template.TemplateMod"
+        ]
+    },
+    "mixins": [
+        "template-mod.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.16.10",
+        "minecraft": ">=1.21.4",
+        "java": ">=21",
+        "fabric-api": "*"
+    },
+    "suggests": {
+        "modmenu": "*"
+    }
+}
