@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/banner.svg" width="720" alt="banner">
+</div>
+
 # Fabric Mod Template
 
 适用于 **Minecraft 1.21.4** 的 Fabric 客户端模组模板。从 [Auto Sprint](https://github.com/lilyco-42/auto-sprint) 模组提取而来。
