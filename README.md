@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lilyco-42/fabric-mod-template/master/docs/logo.png" alt="fabric-mod-template" width="200">
+</p>
+
 <div align="center">
   <img src="docs/banner.svg" width="720" alt="banner">
 </div>
