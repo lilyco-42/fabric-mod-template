@@ -8,7 +8,7 @@
 
 # Fabric Mod Template
 
-适用于 **Minecraft 1.21.4** 的 Fabric 客户端模组模板。从 [Auto Sprint](https://github.com/lilyco-42/auto-sprint) 模组提取而来。
+适用于 **Minecraft 1.21.4** 的 Fabric 客户端模组模板。从 Auto Sprint 模组提取而来（该模组仓已下线）。
 
 ## 特性
 
@@ -128,7 +128,6 @@ ls build/libs/template-mod-1.0.0.jar
 
 ## 从模板创建的项目
 
-- [Auto Sprint](https://github.com/lilyco-42/auto-sprint) — 自动疾跑
 - [Buried Treasure Finder](https://github.com/lilyco-42/buried-treasure-finder) — 宝藏自动计算
 
 ## 参考资源
